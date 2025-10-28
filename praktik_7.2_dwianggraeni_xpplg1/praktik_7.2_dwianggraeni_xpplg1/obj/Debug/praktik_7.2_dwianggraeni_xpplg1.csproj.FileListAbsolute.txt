@@ -1,0 +1,2 @@
+D:\DWI ANGGRAENI\praktik_7.2_dwianggraeni_xpplg1\praktik_7.2_dwianggraeni_xpplg1\obj\Debug\praktik_7.2_dwianggraeni_xpplg1.csproj.AssemblyReference.cache
+D:\DWI ANGGRAENI\praktik_7.2_dwianggraeni_xpplg1\praktik_7.2_dwianggraeni_xpplg1\obj\Debug\praktik_7.2_dwianggraeni_xpplg1.csproj.CoreCompileInputs.cache
