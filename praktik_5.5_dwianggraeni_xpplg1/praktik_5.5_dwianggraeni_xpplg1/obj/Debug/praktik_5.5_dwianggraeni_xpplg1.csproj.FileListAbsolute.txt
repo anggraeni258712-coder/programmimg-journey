@@ -1,0 +1,7 @@
+D:\DWI ANGGRAENI\praktik_5.5_dwianggraeni_xpplg1\praktik_5.5_dwianggraeni_xpplg1\bin\Debug\praktik_5.5_dwianggraeni_xpplg1.exe.config
+D:\DWI ANGGRAENI\praktik_5.5_dwianggraeni_xpplg1\praktik_5.5_dwianggraeni_xpplg1\bin\Debug\praktik_5.5_dwianggraeni_xpplg1.exe
+D:\DWI ANGGRAENI\praktik_5.5_dwianggraeni_xpplg1\praktik_5.5_dwianggraeni_xpplg1\bin\Debug\praktik_5.5_dwianggraeni_xpplg1.pdb
+D:\DWI ANGGRAENI\praktik_5.5_dwianggraeni_xpplg1\praktik_5.5_dwianggraeni_xpplg1\obj\Debug\praktik_5.5_dwianggraeni_xpplg1.csproj.AssemblyReference.cache
+D:\DWI ANGGRAENI\praktik_5.5_dwianggraeni_xpplg1\praktik_5.5_dwianggraeni_xpplg1\obj\Debug\praktik_5.5_dwianggraeni_xpplg1.csproj.CoreCompileInputs.cache
+D:\DWI ANGGRAENI\praktik_5.5_dwianggraeni_xpplg1\praktik_5.5_dwianggraeni_xpplg1\obj\Debug\praktik_5.5_dwianggraeni_xpplg1.exe
+D:\DWI ANGGRAENI\praktik_5.5_dwianggraeni_xpplg1\praktik_5.5_dwianggraeni_xpplg1\obj\Debug\praktik_5.5_dwianggraeni_xpplg1.pdb
