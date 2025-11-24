@@ -1,0 +1,7 @@
+D:\DWI ANGGRAENI\tugas7.2_dwianggraeni\tugas7.2_dwianggraeni\bin\Debug\tugas7.2_dwianggraeni.exe.config
+D:\DWI ANGGRAENI\tugas7.2_dwianggraeni\tugas7.2_dwianggraeni\bin\Debug\tugas7.2_dwianggraeni.exe
+D:\DWI ANGGRAENI\tugas7.2_dwianggraeni\tugas7.2_dwianggraeni\bin\Debug\tugas7.2_dwianggraeni.pdb
+D:\DWI ANGGRAENI\tugas7.2_dwianggraeni\tugas7.2_dwianggraeni\obj\Debug\tugas7.2_dwianggraeni.csproj.AssemblyReference.cache
+D:\DWI ANGGRAENI\tugas7.2_dwianggraeni\tugas7.2_dwianggraeni\obj\Debug\tugas7.2_dwianggraeni.csproj.CoreCompileInputs.cache
+D:\DWI ANGGRAENI\tugas7.2_dwianggraeni\tugas7.2_dwianggraeni\obj\Debug\tugas7.2_dwianggraeni.exe
+D:\DWI ANGGRAENI\tugas7.2_dwianggraeni\tugas7.2_dwianggraeni\obj\Debug\tugas7.2_dwianggraeni.pdb

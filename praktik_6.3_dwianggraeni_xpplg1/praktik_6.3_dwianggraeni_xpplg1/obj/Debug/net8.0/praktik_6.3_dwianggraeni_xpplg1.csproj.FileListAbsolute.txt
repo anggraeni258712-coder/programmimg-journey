@@ -1,0 +1,14 @@
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\bin\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.exe
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\bin\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.deps.json
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\bin\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.runtimeconfig.json
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\bin\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.dll
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\bin\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.pdb
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\obj\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\obj\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.AssemblyInfoInputs.cache
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\obj\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.AssemblyInfo.cs
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\obj\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.csproj.CoreCompileInputs.cache
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\obj\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.dll
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\obj\Debug\net8.0\refint\praktik_6.3_dwianggraeni_xpplg1.dll
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\obj\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.pdb
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\obj\Debug\net8.0\praktik_6.3_dwianggraeni_xpplg1.genruntimeconfig.cache
+D:\DWI ANGGRAENI\praktik_6.3_dwianggraeni_xpplg1\praktik_6.3_dwianggraeni_xpplg1\obj\Debug\net8.0\ref\praktik_6.3_dwianggraeni_xpplg1.dll

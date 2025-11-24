@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "praktik_6.3_dwianggraeni_xpplg1/1.0.0": {
+        "runtime": {
+          "praktik_6.3_dwianggraeni_xpplg1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "praktik_6.3_dwianggraeni_xpplg1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
