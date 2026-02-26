@@ -1,0 +1,43 @@
+body {
+    background-color: pink;
+}
+/*Paragraf 1*/
+p:nth-of-type(2) {
+    font-size: 14px;
+    font-family: Cambria, CochiGeorgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    font-style: normal;
+    color: aliceblue;
+    }
+/*Paragraf 2*/
+P:nth-of-type(4) {
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-style: Italic;
+    color:azure;
+}
+/*Paragraf 3*/
+P:nth-of-type(6) {
+    font-size: large;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: oblique;
+    color:ghostwhite
+}
+/*Paragraf 4*/
+P:nth-of-type(8) {
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:aqua;
+}
+/*Paragraf 5*/
+P:nth-of-type(10) {
+    font-size: 1.2em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: Italic;
+    color:aquamarine;
+}
