@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Tugas Z-Index</title>
+    <style>
+        .wadah {
+            position: relative;
+            width: 200px;
+            height: 200px;
+        }
+
+        .wadah img {
+            width: 200px;
+            position: absolute;
+        }
+        .gbr1 {
+            z-index: 3;
+        }
+        .gbr2 {
+            top: 50px;
+            left: 150px;
+            z-index: 2;
+        }
+        .gbr3 {
+            top: 150px;
+            left: 300px;
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+
+
+    <div class="wadah">
+        <img src="nailoong.jpg" class="gbr1">
+        <img src="nailoong (2).jpg" class="gbr2">
+        <img src="nailoong (1).jpg" class="gbr3">
+    </div>
+
+</body>
+</html>
